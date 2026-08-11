@@ -1,19 +1,20 @@
 const verses = [
 
     {
-        day: 10,
+        day: 11,
 
-        reference: "திருவெளிப்பாடு 3:8",
+        reference: "திருப்பாடல்கள்  91:3",
 
         verse:
-            "உன் செயல்களை நான் அறிவேன். இதோ, எவராலும் பூட்ட முடியாத கதவை நான் உனக்குமுன் திறந்து வைத்திருக்கிறேன்.",
+            "ஏனெனில், ஆண்டவர் உம்மை வேடரின் கண்ணியினின்றும் கொன்றழிக்கும் கொள்ளை நோயினின்றும் தப்புவிப்பார்.",
 
         englishReference:
-            "Revelation 3:8",
+            "Psalms  91:3",
 
         englishVerse:
-            "I know all the things you do, and I have opened a door for you that no one can close."
+            " He will take you out of the bird-net, and keep you safe from wasting disease"
     },
+    
 
     {
         day: 17,
@@ -28,6 +29,36 @@ const verses = [
 
         englishVerse:
             "Be strong, then ,and be valiant.Do not tremble or be afraid, because the Lord, your God, is with you wherever you go."
+    },
+
+     {
+        day: 24,
+
+        reference: "எசாயா 41:10",
+
+        verse:
+            "அஞ்சாதே, நான் உன்னுடன் இருக்கிறேன்; கலங்காதே, நான் உன் கடவுள், நான் உனக்கு வலிமை அளிப்பேன்; உதவி செய்வேன்; என் நீதியின் வலக்கரத்தால் உன்னைத் தாங்குவேன்.",
+
+        englishReference:
+            "Isaiah 41:10",
+
+        englishVerse:
+            "So do not fear, for I am with you; Do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+    },
+
+    {
+        day: 31,
+
+        reference: "யோவேல் 2:26",
+
+        verse:
+            "நீங்கள் வேண்டியமட்டும் உண்டு நிறைவடைவீர்கள்; உங்களை வியத்தகு முறையில் நடத்தி வந்த உங்கள் கடவுளாகிய ஆண்டவரின் பெயரைப் போற்றுவீர்கள்; இனிமேல் என் மக்கள் ஒருபோதும் நிந்தைக்கு உள்ளாகமாட்டார்கள்.",
+
+        englishReference:
+            "Joel 2:26",
+
+        englishVerse:
+            "You shall eat in plenty and be satisfied, and praise the name of the LORD your God, who has dealt wondrously with you. And my people shall never again be put to shame."
     }
 
 ];
