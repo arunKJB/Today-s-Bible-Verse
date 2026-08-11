@@ -13,6 +13,21 @@ const verses = [
 
         englishVerse:
             "I know all the things you do, and I have opened a door for you that no one can close."
+    },
+
+    {
+        day: 17,
+
+        reference: "யோசுவா 1:9",
+
+        verse:
+            "வீறுகொள்! துணிந்து நில்! அஞ்சாதே! கவலைப்படாதே! ஏனெனில் உன் கடவுளும் ஆண்டவருமான நான் நீ செல்லும் இடம் எல்லாம் உன்னோடு இருப்பேன்.",
+
+        englishReference:
+            "Joshua 1:9",
+
+        englishVerse:
+            "Be strong, then ,and be valiant.Do not tremble or be afraid, because the Lord, your God, is with you wherever you go."
     }
 
 ];
