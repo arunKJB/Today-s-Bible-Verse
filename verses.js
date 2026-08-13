@@ -3,7 +3,7 @@ const verses = [
     {
         day: 11,
 
-        reference: "திருப்பாடல்கள்  91:3",
+        reference: "திருப்பாடல்கள் 91:3",
 
         verse:
             "ஏனெனில், ஆண்டவர் உம்மை வேடரின் கண்ணியினின்றும் கொன்றழிக்கும் கொள்ளை நோயினின்றும் தப்புவிப்பார்.",
@@ -14,7 +14,21 @@ const verses = [
         englishVerse:
             " He will take you out of the bird-net, and keep you safe from wasting disease"
     },
-    
+
+    {
+        day: 13,
+
+        reference: "நீதிமொழிகள் 13:14",
+
+        verse:
+            "ஞானமுள்ளவரது அறிவுரை வாழ் வளிக்கும் ஊற்றாகும்; அது ஒருவரைச் சாவை விளைவிக்கும் கண்ணிகளிலிருந்து தப்புவிக்கும்.",
+
+        englishReference:
+            "Proverbs 13:14",
+
+        englishVerse:
+            "The teaching of the wise is a fountain of life, turning men away from the nets of death."
+    },
 
     {
         day: 17,
