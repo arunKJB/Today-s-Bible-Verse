@@ -77,7 +77,7 @@ const verses = [
     },
 
     {
-        day: 17,
+        day: 18,
 
         reference: "யோசுவா 1:9",
 
@@ -92,7 +92,7 @@ const verses = [
     },
 
     {
-        day: 18,
+        day: 17,
 
         reference: "நீதிமொழிகள் 18:10",
 
